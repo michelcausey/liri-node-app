@@ -6,10 +6,10 @@
 ## What does Liri do?
 * Liri is a "Language Interpretation and Recognition Interface"
 
-* **concert-this**, shows upcoming concerts for the specified artist
+  - **concert-this + "Enter Name of Artist"**, shows upcoming concerts for the specified artist
 
-* **spotify-this-song**, shows artist name, a link to the song, and the album name
+  - **spotify-this-song + "Enter Name of Song"**, shows artist name, a link to the song, and the album name
 
-* **movie-this**, shows all of the following about the specified movie: (title of the movie, year the movie came out, IMDB Rating of the movie, Rotten Tomatoes Rating of the movie, country where the movie was produced, language of the movie, plot of the movie, & actors in the movie.
+  - **movie-this + "Enter Name of Movie"**, shows all of the following about the specified movie: (title of the movie, year the movie came out, IMDB Rating of the movie, Rotten Tomatoes Rating of the movie, country where the movie was produced, language of the movie, plot of the movie, & actors in the movie.
 
-* **do-what-it-says**, runs what is in the "random.txt" file
+  - **do-what-it-says**, runs what is in the "random.txt" file
